@@ -1,0 +1,25 @@
+#ride1 {
+  display: none;
+}
+#ride2 {
+  display: none;
+}
+#ride3 {
+  display: none;
+}
+#ride4 {
+  display: none;
+}
+#ride5 {
+  display: none;
+}
+#ride6 {
+  display: none;
+}
+body {
+  background-color: #b7cff7;
+  color: white;
+}
+.jumbotron {
+  background-color: #92a8cc;
+}
